@@ -17,6 +17,6 @@ This series is open to all **developers** with little to no experience with the 
 By the end of the series, you will be able to identify which products of the Elastic Stack would best serve your use case and know how to get started with these products. 
 
 ## Directory of workshop repos
-- Part 1: [Intro to Elastcisearch and Kibana](https://github.com/LisaHJung/Part-1-Intro-to-Elasticsearch-and-Kibana)
+- Part 1: [Intro to Elasticsearch and Kibana](https://github.com/LisaHJung/Part-1-Intro-to-Elasticsearch-and-Kibana)
 - Part 2: [Understanding the relevance of your search with Elasticsearch and Kibana](https://github.com/LisaHJung/Part-2-Understanding-the-relevance-of-your-search-with-Elasticsearch-and-Kibana-)
 
