@@ -20,3 +20,6 @@ By the end of the series, you will be able to identify which products of the Ela
 - Part 1: [Intro to Elasticsearch and Kibana](https://github.com/LisaHJung/Part-1-Intro-to-Elasticsearch-and-Kibana)
 - Part 2: [Understanding the relevance of your search with Elasticsearch and Kibana](https://github.com/LisaHJung/Part-2-Understanding-the-relevance-of-your-search-with-Elasticsearch-and-Kibana-)
 
+## YouTube playlist of workshop videos
+[Beginner's Crash Course to Elastic Stack workshop playlist](https://www.youtube.com/watch?v=gS_nHTWZEJ8&list=PL_mJOmq4zsHZYAyK606y7wjQtC0aoE6Es)
+
