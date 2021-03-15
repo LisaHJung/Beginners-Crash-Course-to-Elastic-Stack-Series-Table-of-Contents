@@ -1,4 +1,4 @@
-# Beginners-Crash-Course-to-the-Elastic-Stack-Series
+# Beginners-Crash-Course-to-Elastic-Stack-Series
 
 Welcome to the Beginner's Crash Course to the Elastic Stack Series!
 
