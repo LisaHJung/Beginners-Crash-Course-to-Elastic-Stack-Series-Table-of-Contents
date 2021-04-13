@@ -1,4 +1,4 @@
-# Table of Contents for Beginner's Crash Course to Elastic Stack Series
+# Table of Contents: Beginner's Crash Course to Elastic Stack Series
 
 Welcome to the Beginner's Crash Course to the Elastic Stack Series!
 
