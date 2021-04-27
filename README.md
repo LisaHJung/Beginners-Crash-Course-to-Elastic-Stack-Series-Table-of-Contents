@@ -18,8 +18,8 @@ By the end of the series, you will be able to identify when to use Elasticsearch
 
 ## Table of contents for workshop repos
 - Part 1: [Intro to Elasticsearch and Kibana](https://github.com/LisaHJung/Part-1-Intro-to-Elasticsearch-and-Kibana)
-- Part 2: [Understanding the relevance of your search with Elasticsearch and Kibana](https://github.com/LisaHJung/Part-2-Understanding-the-relevance-of-your-search-with-Elasticsearch-and-Kibana-)
-- Part 3: [Running full text queries and combined queries with Elasticsearch and Kibana](https://github.com/LisaHJung/Part-3-Running-full-text-queries-and-combined-queries-with-Elasticsearch-and-Kibana)
+- Part 2: [Understanding the Relevance of Your Search with Elasticsearch and Kibana](https://github.com/LisaHJung/Part-2-Understanding-the-relevance-of-your-search-with-Elasticsearch-and-Kibana-)
+- Part 3: [Running Full Text Queries and Combined Queries with Elasticsearch and Kibana](https://github.com/LisaHJung/Part-3-Running-full-text-queries-and-combined-queries-with-Elasticsearch-and-Kibana)
 - Part 4: [Running Aggregations with Elasticsearch and Kibana](https://github.com/LisaHJung/Part-4-Running-Aggregations-with-Elasticsearch-and-Kibana)
 
 ## YouTube playlist of workshop videos
