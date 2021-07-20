@@ -23,7 +23,7 @@ By the end of the series, you will be able to identify when to use Elasticsearch
 - Part 4: [Running Aggregations with Elasticsearch and Kibana](https://github.com/LisaHJung/Part-4-Running-Aggregations-with-Elasticsearch-and-Kibana)
 - Part 5: [Understanding Mapping with Elasticsearch and Kibana](https://github.com/LisaHJung/Part-5-Understanding-Mapping-with-Elasticsearch-and-Kibana)
 - Part 6: [Troubleshooting Beginner Level Errors with Elasticsearch and Kibana]()
-- 
+ 
 ## YouTube playlist of workshop videos
 [Beginner's Crash Course to Elastic Stack workshop playlist](https://www.youtube.com/watch?v=gS_nHTWZEJ8&list=PL_mJOmq4zsHZYAyK606y7wjQtC0aoE6Es)
 
