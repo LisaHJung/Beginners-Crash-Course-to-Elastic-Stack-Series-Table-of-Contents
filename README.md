@@ -22,7 +22,8 @@ By the end of the series, you will be able to identify when to use Elasticsearch
 - Part 3: [Running Full Text Queries and Combined Queries with Elasticsearch and Kibana](https://github.com/LisaHJung/Part-3-Running-full-text-queries-and-combined-queries-with-Elasticsearch-and-Kibana)
 - Part 4: [Running Aggregations with Elasticsearch and Kibana](https://github.com/LisaHJung/Part-4-Running-Aggregations-with-Elasticsearch-and-Kibana)
 - Part 5: [Understanding Mapping with Elasticsearch and Kibana](https://github.com/LisaHJung/Part-5-Understanding-Mapping-with-Elasticsearch-and-Kibana)
- 
+- Part 6: [Troubleshooting Beginner Level Elasticsearch Errors](https://github.com/LisaHJung/Part-6-Troubleshooting-beginner-level-Elasticsearch-Errors/blob/main/README.md)
+
 ## YouTube playlist of workshop videos
 [Beginner's Crash Course to Elastic Stack workshop playlist](https://www.youtube.com/watch?v=gS_nHTWZEJ8&list=PL_mJOmq4zsHZYAyK606y7wjQtC0aoE6Es)
 
