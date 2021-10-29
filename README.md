@@ -37,4 +37,5 @@ This is a playlist of a full length workshops designed to help you get started w
 
 [Mini Beginner's Crash Course to Elasticsearch & Kibana playlist](https://ela.st/mini-beginners-crash-course)
 
-Do you prefer learning in bite sized pieces? Check out this playlist for short clips of beginner's crash course full lengh workshops. Season 2 clips will be uploaded here in the future! 
+Do you prefer learning by watching shorter videos? Check out this playlist to watch short clips of beginner's crash course full length workshops. Season 2 clips will be uploaded here in the future! 
+
