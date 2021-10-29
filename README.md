@@ -1,3 +1,9 @@
+![image](https://user-images.githubusercontent.com/60980933/139469826-b8ebe46a-5c8f-4110-9701-ecc17d0f98b9.png) ANNOUNCEMENT ![image](https://user-images.githubusercontent.com/60980933/139469826-b8ebe46a-5c8f-4110-9701-ecc17d0f98b9.png)
+
+Starting with season 2, I will be creating a series of short clips on Elasticsearch and Kibana instead of hosting a live hour long workshop. 
+
+These clips will be uploaded to [Mini Beginner's Crash Course to Elasticsearch & Kibana playlist](https://ela.st/mini-beginners-crash-course). 
+
 # Table of Contents: Beginner's Crash Course to Elastic Stack Series
 
 Welcome to the Beginner's Crash Course to the Elastic Stack Series!
@@ -27,3 +33,8 @@ By the end of the series, you will be able to identify when to use Elasticsearch
 ## YouTube playlist of workshop videos
 [Beginner's Crash Course to Elastic Stack workshop playlist](https://www.youtube.com/watch?v=gS_nHTWZEJ8&list=PL_mJOmq4zsHZYAyK606y7wjQtC0aoE6Es)
 
+This is a playlist of a full length workshops designed to help you get started with Elasticsearch and Kibana.
+
+[Mini Beginner's Crash Course to Elasticsearch & Kibana playlist](https://ela.st/mini-beginners-crash-course)
+
+Do you prefer learning in bite sized pieces? Check out this playlist for short clips of beginner's crash course full lengh workshops. Season 2 clips will be uploaded here in the future! 
