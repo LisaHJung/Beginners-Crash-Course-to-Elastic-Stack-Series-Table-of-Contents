@@ -31,7 +31,7 @@ By the end of the series, you will be able to identify when to use Elasticsearch
 - Part 6: [Troubleshooting Beginner Level Elasticsearch Errors](https://github.com/LisaHJung/Part-6-Troubleshooting-beginner-level-Elasticsearch-Errors/blob/main/README.md)
 
 ## YouTube playlist of workshop videos
-[Beginner's Crash Course to Elastic Stack workshop playlist](https://www.youtube.com/watch?v=gS_nHTWZEJ8&list=PL_mJOmq4zsHZYAyK606y7wjQtC0aoE6Es)
+[Beginner's Crash Course to Elastic Stack workshop playlist](https://www.youtube.com/playlist?list=PL_mJOmq4zsHZYAyK606y7wjQtC0aoE6Es)
 
 This is a playlist of a full length workshops designed to help you get started with Elasticsearch and Kibana.
 
