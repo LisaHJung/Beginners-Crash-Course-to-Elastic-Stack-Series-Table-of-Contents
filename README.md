@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/60980933/139469826-b8ebe46a-5c8f-4110-9701-ecc17d0f98b9.png) ANNOUNCEMENT ![image](https://user-images.githubusercontent.com/60980933/139469826-b8ebe46a-5c8f-4110-9701-ecc17d0f98b9.png)
 
-Starting with season 2, I will be creating a series of short clips on Elasticsearch and Kibana instead of hosting a live hour long workshop. 
+To keep the content short and sweet, I will be creating a series of short clips on Elasticsearch and Kibana instead of hosting a live hour long workshop. 
 
 These clips will be uploaded to [Mini Beginner's Crash Course to Elasticsearch & Kibana playlist](https://ela.st/mini-beginners-crash-course). 
 
