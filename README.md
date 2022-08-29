@@ -6,7 +6,7 @@ These clips will be uploaded to [Mini Beginner's Crash Course to Elasticsearch &
 
 # Table of Contents: Beginner's Crash Course to Elastic Stack Series
 
-Welcome to the Beginner's Crash Course to the Elastic Stack Series!
+Welcome to the Beginner's Crash Course to Elastic Stack Series!
 
 In life, we are always in search of something. Whether we are in search of the meaning of life or the most delicious tacos in town, we heavily rely on search engines to get the answers.
 
