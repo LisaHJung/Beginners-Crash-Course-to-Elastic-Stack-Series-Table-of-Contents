@@ -5,7 +5,7 @@
 
 In season 2, we will go over how to build a full stack JavaScript App with Elasticsearch! 
 
-Check out this [resource](https://dev.to/lisahjung/beginners-guide-to-building-a-full-stack-appnodejsreact-with-elasticsearch-2o5j-temp-slug-1991233?preview=63b623ad98660c9aef77e65a1a0e615e08a34a446e07bdad78c382ea5ac3f4b554b77514786031e1bb67701a633d55735a8cf5ff1c6220fc71b302f9) to get started. 
+Check out this [resource](https://dev.to/lisahjung/beginners-guide-to-building-a-full-stack-app-nodejs-react-with-elasticsearch-5347) to get started. 
 
 # Table of Contents: Beginner's Crash Course to Elastic Stack Series
 
