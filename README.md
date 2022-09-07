@@ -47,9 +47,12 @@ Do you prefer learning by watching shorter videos? Check out this playlist to wa
 We all have preferred method of learning so choose the format that works for you:
 
 **1. [Video format](https://ela.st/mini-beginners-crash-course)(YouTube playlist)**
+
 Season 2 video titles start with S2 and have a thumbnail background similar to the following!
+
+
 <img width="817" alt="image" src="https://user-images.githubusercontent.com/60980933/188253792-bccb5137-a7e3-462f-88b8-e7314b3660dd.png">
 **2. [Blog format](https://dev.to/lisahjung/beginners-guide-to-building-a-full-stack-app-nodejs-react-with-elasticsearch-5347)**
 If you prefer to learn by reading instead, use the following table of content and go through the blogs in the following order! 
 
-**[Complementary GitHub Repo to the Series](https://ela.st/mbcc-season2-repo)**
+**[Complementary GitHub Repo to the Season 2 Series](https://ela.st/mbcc-season2-repo)**
