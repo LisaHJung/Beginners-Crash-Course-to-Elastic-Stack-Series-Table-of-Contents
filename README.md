@@ -1,8 +1,9 @@
-![image](https://user-images.githubusercontent.com/60980933/139469826-b8ebe46a-5c8f-4110-9701-ecc17d0f98b9.png) ANNOUNCEMENT ![image](https://user-images.githubusercontent.com/60980933/139469826-b8ebe46a-5c8f-4110-9701-ecc17d0f98b9.png)
+:mega: SEASON 2 ALERT !:mega:
 
-To keep the content short and sweet, I will be creating a series of short clips on Elasticsearch and Kibana instead of hosting a live hour long workshop. 
+![image](https://media.giphy.com/media/S9i8jJxTvAKVHVMvvW/giphy.gif)
+In season 2, we will go over how to build a full stack JavaScript App with Elasticsearch! 
 
-These clips will be uploaded to [Mini Beginner's Crash Course to Elasticsearch & Kibana playlist](https://ela.st/mini-beginners-crash-course). 
+Check out this [resource](https://dev.to/lisahjung/beginners-guide-to-building-a-full-stack-appnodejsreact-with-elasticsearch-2o5j-temp-slug-1991233?preview=63b623ad98660c9aef77e65a1a0e615e08a34a446e07bdad78c382ea5ac3f4b554b77514786031e1bb67701a633d55735a8cf5ff1c6220fc71b302f9) to get started. 
 
 # Table of Contents: Beginner's Crash Course to Elastic Stack Series
 
@@ -18,7 +19,7 @@ If you are a developer who is looking to make data usable in real time and at sc
 
 ## Who is this series for?
 
-This series is open to all **developers** with little to no experience with the Elastic Stack or those who could use a refresher.
+This series is open to all **developers** with little to no experience with the Elasticsearch and Kibana or those who could use a refresher.
 
 By the end of the series, you will be able to identify when to use Elasticsearch and Kibana and know how to get started with these products. 
 
@@ -39,3 +40,14 @@ This is a playlist of a full length workshops designed to help you get started w
 
 Do you prefer learning by watching shorter videos? Check out this playlist to watch short clips of beginner's crash course full length workshops. Season 2 clips will be uploaded here in the future! 
 
+### Season 2 of Mini Beginner's Crash Course to Elasticsearch & Kibana
+#### Two Ways to Learn
+We all have preferred method of learning so choose the format that works for you:
+
+**1. [Video format](https://ela.st/mini-beginners-crash-course)(YouTube playlist)**
+Season 2 video titles start with S2 and have a thumbnail background similar to the following!
+<img width="817" alt="image" src="https://user-images.githubusercontent.com/60980933/188253792-bccb5137-a7e3-462f-88b8-e7314b3660dd.png">
+**2. [Blog format](https://dev.to/lisahjung/beginners-guide-to-building-a-full-stack-app-nodejs-react-with-elasticsearch-5347)**
+If you prefer to learn by reading instead, use the following table of content and go through the blogs in the following order! 
+
+**[Complementary GitHub Repo to the Series](https://ela.st/mbcc-season2-repo)**
