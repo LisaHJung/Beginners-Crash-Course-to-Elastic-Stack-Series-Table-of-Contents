@@ -4,6 +4,7 @@
 
 
 In this season, we are building a full stack JavaScript app with Elasticsearch and visualizing data with Kibana Lens.
+
 Click [here](https://dev.to/lisahjung/beginners-guide-to-building-a-full-stack-app-nodejs-react-with-elasticsearch-5347) to get started!!
 
 # Table of Contents: Beginner's Crash Course to Elastic Stack Series
