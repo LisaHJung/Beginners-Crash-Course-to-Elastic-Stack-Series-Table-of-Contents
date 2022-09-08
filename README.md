@@ -1,4 +1,4 @@
-:mega: SEASON 2 ALERT !:mega:
+:mega:SEASON 2 ALERT:mega:
 
 ![image](https://media.giphy.com/media/S9i8jJxTvAKVHVMvvW/giphy.gif)
 
